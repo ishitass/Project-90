@@ -1,0 +1,13 @@
+body
+{
+	background: rgb(19,69,187);
+background: radial-gradient(circle, rgba(19,69,187,1) 0%, rgba(35,109,214,1) 30%, rgba(4,45,97,1) 50%, rgba(80,145,231,1) 70%, rgba(177,228,249,1) 100%);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(41, 123, 201);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
